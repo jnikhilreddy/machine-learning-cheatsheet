@@ -21,6 +21,5 @@ Essential Cheat Sheets for deep learning and machine learning researchers
   - [**Neural Network Graphs**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Neural%20Network%20Graphs.png)<br>
   - [**Deep Learning Cheat Sheet**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Deep%20Learning%20Cheat%20Sheet-Hacker%20Noon.pdf)<br>
   - [**All Cheat Sheets(PDF)**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/All%20Cheat%20Sheets.pdf)<br>
-  
-[**https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5**](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+
   
